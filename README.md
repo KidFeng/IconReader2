@@ -7,6 +7,7 @@ __Installing android SDK__
 
 See the [official android doc](http://developer.android.com/sdk/installing.html)
 
+
 __Create emulator__
 
 The command line for creating an AVD has the following syntax:
@@ -17,9 +18,12 @@ Here's an example that creates an AVD with the name "my_android1.5" and target I
 
 For more information about how to manage AVDs, see [developer.android.com](http://developer.android.com/guide/developing/tools/avd.html)
 
+
 __Startup emulator__
+
 now, startup your avd using this command:
 	emulator -avd my_android1.5
+
 
 __Run IconReader2__
 	cd $IconReader2_HOME

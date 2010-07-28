@@ -28,4 +28,4 @@ now, startup your avd using this command:
 __Run IconReader2__
 	cd $IconReader2_HOME
 	ant install
-
+now you can find it on your emulator
